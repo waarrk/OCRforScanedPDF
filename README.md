@@ -1,0 +1,2 @@
+# OCRforScanedPDF
+スキャンしたPDFをOCRして自動でタグ付けするやつ
